@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "p3Server"
 include ':app'
+include ':javaprograms'
